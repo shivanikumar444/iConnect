@@ -1,0 +1,4 @@
+{
+  'JIVE_API_URI' : 'https://italent.jiveon.com/api/core/v3/',
+  'TIME_TRACK_BASE_URI': 'https://italent.info/timetrack_mobile/'
+}

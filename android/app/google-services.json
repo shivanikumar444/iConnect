@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "211202699652",
+    "firebase_url": "https://iconnect-c5a90.firebaseio.com",
+    "project_id": "iconnect-c5a90",
+    "storage_bucket": "iconnect-c5a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211202699652:android:88ce09b82f66a13a",
+        "android_client_info": {
+          "package_name": "com.iconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211202699652-n5tkadtam1493hj8tq4dco08nikgbaor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWh_u4-7uI5DcoI0aRSJA7cW9M54BSLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+{
+  'JIVE_API_URI' : 'https://italent.jiveon.com/api/core/v3/',
+  'TIME_TRACK_BASE_URI': 'http://ec2-52-24-171-129.us-west-2.compute.amazonaws.com/timetrack_test/'
+}
